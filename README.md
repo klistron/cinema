@@ -29,6 +29,6 @@
 
 ## Контакты:
 * [Telegram](https://t.me/AlexeyKlistron)
-* [GitHub](https://github.com/AlexeyKlistron)
+* [GitHub](https://github.com/klistron)
 * [email](mailto:klistron@gmail.com)
 
